@@ -1,4 +1,4 @@
-# Bem Vindos (as)!
+# Bem Vindos(as)!
 
 Esta sessão do meu repositório é destinada ao projeto desenvolvido no curso de Javascript na plataforma da B7Web.
 Porjeto no qual tem a finalidade de treinar a lógica de programação, utilizando a linguagem de programação acima citada.
